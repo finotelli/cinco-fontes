@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100&family=IBM+Plex+Serif&family=Open+Sans:ital@1&family=Satisfy&family=Share+Tech+Mono&display=swap');
+
+body {
+    background-image: url(fundo.jpg);
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center;
+    text-align: right;
+}
+
+.título{
+    text-decoration: underline;
+    font-size: 50px;
+    color:black; text-shadow: rgb(246, 255, 151) 0.1em 0.1em 0.2em;
+    text-align: center;
+}
+
+.fonte1 {
+    font-size: 38px;
+    color: rgb(173, 173, 86);
+    font-family: 'Big Shoulders Display', cursive;
+}
+
+.primeiro {
+    font-size: 28px;
+    color: black;
+    font-family: 'Big Shoulders Display', cursive;
+
+}
+
+.fonte2 {
+    font-size: 38px;
+    color: rgb(173, 173, 86);
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.segundo{
+    font-size: 28px;
+    color: black;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.fonte3{
+    color: rgb(173, 173, 86);
+    font-family: 'Open Sans', sans-serif;
+    text-align: right;
+    font-size: 38px;
+}
+
+.terceiro {
+    font-size: 28px;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fonte4{
+    font-size: 38px;
+    color: rgb(173, 173, 86);
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.quarto {
+    font-size: 28px;
+    color: black;
+    font-family: 'Share Tech Mono', monospace;
+
+}
+
+.fonte5 {
+    font-size: 38px;
+    color: rgb(173, 173, 86);
+    font-family: 'Satisfy', cursive;
+}
+
+.último {
+    font-size: 28px;
+    color: black;
+    font-family: 'Satisfy', cursive;
+}
+
+#eu {
+    background-color: rgb(227, 191, 252);
+    color: black;
+}
